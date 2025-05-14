@@ -10,9 +10,10 @@ minusculas = list(map(str.lower, letras))
 print(minusculas)
 # ['alan', 'breno', 'clovis', 'dudu']
 
+
+
+
 numeros = [1, 2, 3, 4, 5]
-
-
 
 # Função que eleva um número ao quadrado
 def quadrado(x):
